@@ -1,3 +1,7 @@
+![H15](https://github.com/muhdhaziq02/Hackathon2-Group47/assets/117788825/08e6b166-b28d-487d-a35e-b05b24f3875f)
+![Uploading H14.png…]()
+![Uploading H11.png…]()
+![Uploading H10.png…]()
 # CPT113 Hackathon 2 - Group 47
 ### Group members
 1. Muhammad Haziq bin Sazali (163646)
@@ -41,32 +45,29 @@ Overall, the use of linked lists in your game would depend on the specific mecha
 ![H24](https://github.com/muhdhaziq02/Hackathon2-Group47/assets/117788825/9e71b9a8-e32d-48fb-9610-bd8794072252)
 
 #### Go to Credit
-![H22](https://github.com/muhdhaziq02/Hackathon2-Group47/assets/117788825/dc484fc3-0925-4312-aeb1-249461ecbf52)
+![H22](https://github.com/muhdhaziq02/Hackathon2-Group47/assets/117788825/da1d962a-5635-4841-8cee-c22a2491172f)
+
 
 #### Back to Main Menu
-![H4](https://github.com/muhdhaziq02/Hackathon2-Group47/assets/117788825/6ab772ff-2180-4cab-b0b5-8d01b0f47432)
+![H4](https://github.com/muhdhaziq02/Hackathon2-Group47/assets/117788825/cbaed03c-4adb-49d8-b364-4b4e058f8e68)
+
 
 #### Start Game
-![H23](https://github.com/muhdhaziq02/Hackathon2-Group47/assets/117788825/83a2823d-20e6-4aaa-8003-4f9730af7dd4)
+![H23](https://github.com/muhdhaziq02/Hackathon2-Group47/assets/117788825/2adbf53b-bed2-4ae2-86b1-e2ee141ef59f)
+
 
 #### Control Manual
-![H6](https://github.com/muhdhaziq02/Hackathon2-Group47/assets/117788825/c52d354c-811c-4695-8f23-f31e6f0b9c2d)
+![H6](https://github.com/muhdhaziq02/Hackathon2-Group47/assets/117788825/c7b54923-5e18-4694-8761-30ad3078f057)
+
 
 #### Scenario
-![H7](https://github.com/muhdhaziq02/Hackathon2-Group47/assets/117788825/750b85c4-18a4-44f1-bdf1-e4e1350a64c4)
+![H7](https://github.com/muhdhaziq02/Hackathon2-Group47/assets/117788825/404788d6-06bc-48c2-871e-e2bd03abb84f)
+
 
 #### Move step :
-![H8](https://github.com/muhdhaziq02/Hackathon2-Group47/assets/117788825/99bd700c-22f1-48e9-a9fe-0484549ecc56)
+![Uploading H8.png…]()
+![Uploading H16.png…]()
 
-![H10](https://github.com/muhdhaziq02/Hackathon2-Group47/assets/117788825/ef3987e0-8da2-41ba-bb25-9a881fde9045)
-
-![H11](https://github.com/muhdhaziq02/Hackathon2-Group47/assets/117788825/c8e8b27c-c816-4b28-ab39-da532d21f3ca)
-
-![H14](https://github.com/muhdhaziq02/Hackathon2-Group47/assets/117788825/2739436a-a996-43de-b937-5d1c0105a249)
-
-![H15](https://github.com/muhdhaziq02/Hackathon2-Group47/assets/117788825/0ede2c24-c418-4a38-af87-087a54d7e704)
-
-![H16](https://github.com/muhdhaziq02/Hackathon2-Group47/assets/117788825/dff685c3-b7e6-4a05-a580-5d730fb224e1)
 
 #### Reach Target Location
 ![H17](https://github.com/muhdhaziq02/Hackathon2-Group47/assets/117788825/7c732929-c491-49b6-8b44-4d7b5f43887d)
