@@ -36,3 +36,23 @@ Linked lists are a data structure commonly used in programming. While their spec
 For instance, if your game has a sequence of actions or events that need to occur in a specific order, a linked list could be used to maintain and traverse that sequence. Each node in the linked list could represent an action or event, and the list's links would connect them in the correct order. This allows for easy iteration and management of the sequence.
 
 Overall, the use of linked lists in your game would depend on the specific mechanics or features you have implemented, but they can provide a convenient way to organize and manipulate ordered collections of data.
+
+![H1](https://github.com/muhdhaziq02/Hackathon2-Group47/assets/117788825/6f183cbf-a803-4786-82a4-a5e3c7367231)
+
+![H2](https://github.com/muhdhaziq02/Hackathon2-Group47/assets/117788825/5cc0f783-fb56-46fb-926d-1b05c3d9cad8)
+
+![H4](https://github.com/muhdhaziq02/Hackathon2-Group47/assets/117788825/6ab772ff-2180-4cab-b0b5-8d01b0f47432)
+
+![H5](https://github.com/muhdhaziq02/Hackathon2-Group47/assets/117788825/681bdede-12ff-46b5-b9a3-3068452b0cfc)
+
+![H6](https://github.com/muhdhaziq02/Hackathon2-Group47/assets/117788825/c52d354c-811c-4695-8f23-f31e6f0b9c2d)
+
+![H7](https://github.com/muhdhaziq02/Hackathon2-Group47/assets/117788825/750b85c4-18a4-44f1-bdf1-e4e1350a64c4)
+
+
+
+
+
+
+
+
