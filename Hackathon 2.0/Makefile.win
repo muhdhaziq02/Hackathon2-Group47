@@ -1,0 +1,52 @@
+# Project: Hackathon 2.0
+# Makefile created by Dev-C++ 5.11
+
+CPP      = g++.exe
+CC       = gcc.exe
+WINDRES  = windres.exe
+OBJ      = LinkedList.o main.o Map.o PlayerMove.o TestPlayerMove.o Chapters.o Enemy.o GameManager.o Item.o
+LINKOBJ  = LinkedList.o main.o Map.o PlayerMove.o TestPlayerMove.o Chapters.o Enemy.o GameManager.o Item.o
+LIBS     = -L"C:/Program Files (x86)/Dev-Cpp/MinGW64/lib" -L"C:/Program Files (x86)/Dev-Cpp/MinGW64/x86_64-w64-mingw32/lib" -static-libgcc
+INCS     = -I"C:/Program Files (x86)/Dev-Cpp/MinGW64/include" -I"C:/Program Files (x86)/Dev-Cpp/MinGW64/x86_64-w64-mingw32/include" -I"C:/Program Files (x86)/Dev-Cpp/MinGW64/lib/gcc/x86_64-w64-mingw32/4.9.2/include"
+CXXINCS  = -I"C:/Program Files (x86)/Dev-Cpp/MinGW64/include" -I"C:/Program Files (x86)/Dev-Cpp/MinGW64/x86_64-w64-mingw32/include" -I"C:/Program Files (x86)/Dev-Cpp/MinGW64/lib/gcc/x86_64-w64-mingw32/4.9.2/include" -I"C:/Program Files (x86)/Dev-Cpp/MinGW64/lib/gcc/x86_64-w64-mingw32/4.9.2/include/c++"
+BIN      = "Hackathon 2.0.exe"
+CXXFLAGS = $(CXXINCS) -std=c++11
+CFLAGS   = $(INCS) -std=c++11
+RM       = rm.exe -f
+
+.PHONY: all all-before all-after clean clean-custom
+
+all: all-before $(BIN) all-after
+
+clean: clean-custom
+	${RM} $(OBJ) $(BIN)
+
+$(BIN): $(OBJ)
+	$(CPP) $(LINKOBJ) -o $(BIN) $(LIBS)
+
+LinkedList.o: LinkedList.cpp
+	$(CPP) -c LinkedList.cpp -o LinkedList.o $(CXXFLAGS)
+
+main.o: main.cpp
+	$(CPP) -c main.cpp -o main.o $(CXXFLAGS)
+
+Map.o: Map.cpp
+	$(CPP) -c Map.cpp -o Map.o $(CXXFLAGS)
+
+PlayerMove.o: PlayerMove.cpp
+	$(CPP) -c PlayerMove.cpp -o PlayerMove.o $(CXXFLAGS)
+
+TestPlayerMove.o: TestPlayerMove.cpp
+	$(CPP) -c TestPlayerMove.cpp -o TestPlayerMove.o $(CXXFLAGS)
+
+Chapters.o: Chapters.cpp
+	$(CPP) -c Chapters.cpp -o Chapters.o $(CXXFLAGS)
+
+Enemy.o: Enemy.cpp
+	$(CPP) -c Enemy.cpp -o Enemy.o $(CXXFLAGS)
+
+GameManager.o: GameManager.cpp
+	$(CPP) -c GameManager.cpp -o GameManager.o $(CXXFLAGS)
+
+Item.o: Item.cpp
+	$(CPP) -c Item.cpp -o Item.o $(CXXFLAGS)
