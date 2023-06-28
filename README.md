@@ -7,13 +7,11 @@
 ## SISWA SIMULATOR
 
 ### Description of our game
-The game is a text-based free roaming adventure where you, as a freshman of Universiti Sains Malaysia student will navigate through the campus. Being a freshman, you are trying to get back to your room and have little to no clue on the directions. Along the way, you will encounter various things and have the chance to get to know more on the campus' hidden gems and myths. The game is played by interacting with the text-based interface through commands entered by you.
-
-Siswa Simulator is an exciting simulator game that puts you in the shoes of a Universiti Sains Malaysia (USM) freshman student who finds yourself lost in campus and must navigate through the whole map to make it back to your room. Immerse yourself in the thrilling journey of survival, discovery and exploration within the confines of USM ground and unravel various hidden gems and myths.
+Siswa Simulator is an exciting text-based simulator game that puts you in the shoes of a Universiti Sains Malaysia (USM) freshman student who finds yourself lost in campus and must navigate through the whole map to make it back to your room. Being a freshman, you are trying to get back to your room and have little to no clue on the directions. Along the way, you will encounter various things and have the chance to get to know more on the campus' hidden gems and myths. Immerse yourself in the thrilling journey of survival, discovery and exploration within the confines of USM ground.
 
 As you delve deeper into the game, you'll unravel numerous mind blowing features of USM. Will you uncover the campus's dark secrets and successfully escape, or will you succumb to the challenges and remain trapped forever?
 
-
+The game is played by interacting with the text-based interface through commands entered by you.
 ### Features of the game:
 1. Room-based navigation: The game is structured around different rooms or locations that players can move between.
 2. Object interaction: Players can interact with objects within the game world, potentially picking them up, using them, or combining them to progress.
