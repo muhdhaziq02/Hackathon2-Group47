@@ -1,7 +1,3 @@
-![H15](https://github.com/muhdhaziq02/Hackathon2-Group47/assets/117788825/08e6b166-b28d-487d-a35e-b05b24f3875f)
-![Uploading H14.png…]()
-![Uploading H11.png…]()
-![Uploading H10.png…]()
 # CPT113 Hackathon 2 - Group 47
 ### Group members
 1. Muhammad Haziq bin Sazali (163646)
@@ -65,20 +61,28 @@ Overall, the use of linked lists in your game would depend on the specific mecha
 
 
 #### Move step :
-![Uploading H8.png…]()
-![Uploading H16.png…]()
+![H8](https://github.com/muhdhaziq02/Hackathon2-Group47/assets/117788825/39baf4a9-f724-4deb-986b-77abf3f81559)
 
+![H10](https://github.com/muhdhaziq02/Hackathon2-Group47/assets/117788825/6ca07abd-5d86-47d8-9349-3c73c47f9794)
+
+![H11](https://github.com/muhdhaziq02/Hackathon2-Group47/assets/117788825/c71fbc21-47ca-47e3-9b39-3dfad328d31b)
+
+![H14](https://github.com/muhdhaziq02/Hackathon2-Group47/assets/117788825/11f9fe09-977a-4d3e-8334-81949f562a09)
+
+![H15](https://github.com/muhdhaziq02/Hackathon2-Group47/assets/117788825/c4ff3afd-5138-4bf9-a8f6-004833df8491)
+
+![H16](https://github.com/muhdhaziq02/Hackathon2-Group47/assets/117788825/502818a3-33a2-47f5-9c6a-7620b28147c8)
 
 #### Reach Target Location
-![H17](https://github.com/muhdhaziq02/Hackathon2-Group47/assets/117788825/7c732929-c491-49b6-8b44-4d7b5f43887d)
+![H17](https://github.com/muhdhaziq02/Hackathon2-Group47/assets/117788825/72078a93-0388-475a-a97f-a99b2440551d)
 
 #### Last Scenario
-![H18](https://github.com/muhdhaziq02/Hackathon2-Group47/assets/117788825/d0031bdf-7480-4dca-907c-ea0dcdb40dad)
+![H18](https://github.com/muhdhaziq02/Hackathon2-Group47/assets/117788825/ebb844a0-8831-4de9-a93c-17f91dd3fc02)
 
-![H19](https://github.com/muhdhaziq02/Hackathon2-Group47/assets/117788825/90341dbd-75ce-46db-a2b2-cc86b8d7eacc)
+![H19](https://github.com/muhdhaziq02/Hackathon2-Group47/assets/117788825/7a2d0e66-2bfb-43f4-aec2-c439243d80c8)
 
 #### Player Giveup
-![H20](https://github.com/muhdhaziq02/Hackathon2-Group47/assets/117788825/b71e3a6c-22a6-40d2-aef0-995831084ed4)
+![H20](https://github.com/muhdhaziq02/Hackathon2-Group47/assets/117788825/db5a46c9-b327-4fc0-9593-8bc8aad786b1)
 
 #### Game Over
 ![H21](https://github.com/muhdhaziq02/Hackathon2-Group47/assets/117788825/4eef6ed6-3fac-4d67-8b6f-56374e20a0c8)
