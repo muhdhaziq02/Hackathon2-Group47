@@ -49,10 +49,26 @@ Overall, the use of linked lists in your game would depend on the specific mecha
 
 ![H7](https://github.com/muhdhaziq02/Hackathon2-Group47/assets/117788825/750b85c4-18a4-44f1-bdf1-e4e1350a64c4)
 
+![H8](https://github.com/muhdhaziq02/Hackathon2-Group47/assets/117788825/99bd700c-22f1-48e9-a9fe-0484549ecc56)
 
+![H10](https://github.com/muhdhaziq02/Hackathon2-Group47/assets/117788825/ef3987e0-8da2-41ba-bb25-9a881fde9045)
 
+![H11](https://github.com/muhdhaziq02/Hackathon2-Group47/assets/117788825/c8e8b27c-c816-4b28-ab39-da532d21f3ca)
 
+![H14](https://github.com/muhdhaziq02/Hackathon2-Group47/assets/117788825/2739436a-a996-43de-b937-5d1c0105a249)
 
+![H15](https://github.com/muhdhaziq02/Hackathon2-Group47/assets/117788825/0ede2c24-c418-4a38-af87-087a54d7e704)
 
+![H16](https://github.com/muhdhaziq02/Hackathon2-Group47/assets/117788825/dff685c3-b7e6-4a05-a580-5d730fb224e1)
+
+![H17](https://github.com/muhdhaziq02/Hackathon2-Group47/assets/117788825/7c732929-c491-49b6-8b44-4d7b5f43887d)
+
+![H18](https://github.com/muhdhaziq02/Hackathon2-Group47/assets/117788825/d0031bdf-7480-4dca-907c-ea0dcdb40dad)
+
+![H19](https://github.com/muhdhaziq02/Hackathon2-Group47/assets/117788825/90341dbd-75ce-46db-a2b2-cc86b8d7eacc)
+
+![H20](https://github.com/muhdhaziq02/Hackathon2-Group47/assets/117788825/b71e3a6c-22a6-40d2-aef0-995831084ed4)
+
+![H21](https://github.com/muhdhaziq02/Hackathon2-Group47/assets/117788825/4eef6ed6-3fac-4d67-8b6f-56374e20a0c8)
 
 
