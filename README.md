@@ -1,5 +1,5 @@
 # CPT113 Hackathon 2 - Group 47
-### Group members:
+### Group members
 1. Muhammad Haziq bin Sazali (163646)
 2. Muhammad Arfan bin Zuhaime (161508)
 3. Muhammad Haziq bin Mohamad Rodzali (161423)
@@ -9,15 +9,10 @@
 ### Description of our game
 The game is a text-based free roaming adventure where you, as a freshman of Universiti Sains Malaysia student will navigate through the campus. Being a freshman, you are trying to get back to your room and have little to no clue on the directions. Along the way, you will encounter various things and have the chance to get to know more on the campus' hidden gems and myths. The game is played by interacting with the text-based interface through commands entered by you.
 
-The dungeon consists of interconnected rooms represented by a linked list. Each room has a unique identifier, a description, and may contain an enemy or an item. The player starts in the first room and can move to adjacent rooms by choosing a direction (north, south, east, or west) based on the available exits.
+Siswa Simulator is an exciting simulator game that puts you in the shoes of a Universiti Sains Malaysia (USM) freshman student who finds yourself lost in campus and must navigate through the whole map to make it back to your room. Immerse yourself in the thrilling journey of survival, discovery and exploration within the confines of USM ground and unravel various hidden gems and myths.
 
-Enemies represent adversaries that the player must defeat to progress in the game. Each enemy has a name, health points (HP), and a damage value. The player engages in combat with enemies by attacking them, deducting their HP based on the player's attack strength. The player's HP and attack strength are predefined.
+As you delve deeper into the game, you'll unravel numerous mind blowing features of USM. Will you uncover the campus's dark secrets and successfully escape, or will you succumb to the challenges and remain trapped forever?
 
-Items represent objects that the player can collect and use to aid in their journey. Each item has a name and a description. The player can pick up items found in rooms and add them to their inventory for later use. The code snippet does not specify the exact functionality or effects of the items, so their specific use may vary.
-
-The game continues until the player either defeats all the enemies and reaches the exit or loses all their HP, resulting in a game over.
-
-It's important to note that the provided code is a simplified example and may not encompass all the features and mechanics of the complete game. The description above is based solely on the information available in the code snippet.
 
 ### Features of the game:
 1. Room-based navigation: The game is structured around different rooms or locations that players can move between.
