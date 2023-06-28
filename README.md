@@ -38,16 +38,16 @@ Overall, the use of linked lists in your game would depend on the specific mecha
 
 ### Screenshot of our game:
 #### Main Menu
-![H1](https://github.com/muhdhaziq02/Hackathon2-Group47/assets/117788825/6f183cbf-a803-4786-82a4-a5e3c7367231)
+![H24](https://github.com/muhdhaziq02/Hackathon2-Group47/assets/117788825/3e948868-969c-4390-add6-915b01a73a9a)
 
 #### Go to Credit
-![H2](https://github.com/muhdhaziq02/Hackathon2-Group47/assets/117788825/5cc0f783-fb56-46fb-926d-1b05c3d9cad8)
+![H22](https://github.com/muhdhaziq02/Hackathon2-Group47/assets/117788825/dc484fc3-0925-4312-aeb1-249461ecbf52)
 
 #### Back to Main Menu
 ![H4](https://github.com/muhdhaziq02/Hackathon2-Group47/assets/117788825/6ab772ff-2180-4cab-b0b5-8d01b0f47432)
 
 #### Start Game
-![H5](https://github.com/muhdhaziq02/Hackathon2-Group47/assets/117788825/681bdede-12ff-46b5-b9a3-3068452b0cfc)
+![H23](https://github.com/muhdhaziq02/Hackathon2-Group47/assets/117788825/83a2823d-20e6-4aaa-8003-4f9730af7dd4)
 
 #### Control Manual
 ![H6](https://github.com/muhdhaziq02/Hackathon2-Group47/assets/117788825/c52d354c-811c-4695-8f23-f31e6f0b9c2d)
