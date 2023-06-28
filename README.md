@@ -7,7 +7,17 @@
 ## SISWA SIMULATOR
 
 ### Description of our game
-Your game appears to be a text-based adventure game where players navigate through a series of rooms or locations and interact with objects and characters to complete objectives or solve puzzles.
+The game is a text-based adventure where the player navigates through a series of rooms in a dungeon. The player's objective is to defeat enemies, collect items, and reach the exit to win the game. The game is played by interacting with the text-based interface through commands entered by the player.
+
+The dungeon consists of interconnected rooms represented by a linked list. Each room has a unique identifier, a description, and may contain an enemy or an item. The player starts in the first room and can move to adjacent rooms by choosing a direction (north, south, east, or west) based on the available exits.
+
+Enemies represent adversaries that the player must defeat to progress in the game. Each enemy has a name, health points (HP), and a damage value. The player engages in combat with enemies by attacking them, deducting their HP based on the player's attack strength. The player's HP and attack strength are predefined.
+
+Items represent objects that the player can collect and use to aid in their journey. Each item has a name and a description. The player can pick up items found in rooms and add them to their inventory for later use. The code snippet does not specify the exact functionality or effects of the items, so their specific use may vary.
+
+The game continues until the player either defeats all the enemies and reaches the exit or loses all their HP, resulting in a game over.
+
+It's important to note that the provided code is a simplified example and may not encompass all the features and mechanics of the complete game. The description above is based solely on the information available in the code snippet.
 
 ### Features of the game:
 1. Room-based navigation: The game is structured around different rooms or locations that players can move between.
