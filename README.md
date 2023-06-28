@@ -37,6 +37,8 @@ For instance, if your game has a sequence of actions or events that need to occu
 
 Overall, the use of linked lists in your game would depend on the specific mechanics or features you have implemented, but they can provide a convenient way to organize and manipulate ordered collections of data.
 
+
+### Screenshot of our game:
 ![H1](https://github.com/muhdhaziq02/Hackathon2-Group47/assets/117788825/6f183cbf-a803-4786-82a4-a5e3c7367231)
 
 ![H2](https://github.com/muhdhaziq02/Hackathon2-Group47/assets/117788825/5cc0f783-fb56-46fb-926d-1b05c3d9cad8)
