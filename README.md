@@ -7,7 +7,7 @@
 ## SISWA SIMULATOR
 
 ### Description of our game
-The game is a text-based adventure where the player navigates through a series of rooms in a dungeon. The player's objective is to defeat enemies, collect items, and reach the exit to win the game. The game is played by interacting with the text-based interface through commands entered by the player.
+The game is a text-based free roaming adventure where you, as a freshman of Universiti Sains Malaysia student will navigate through the campus. Being a freshman, you are trying to get back to your room and have little to no clue on the directions. Along the way, you will encounter various things and have the chance to get to know more on the campus' hidden gems and myths. The game is played by interacting with the text-based interface through commands entered by you.
 
 The dungeon consists of interconnected rooms represented by a linked list. Each room has a unique identifier, a description, and may contain an enemy or an item. The player starts in the first room and can move to adjacent rooms by choosing a direction (north, south, east, or west) based on the available exits.
 
