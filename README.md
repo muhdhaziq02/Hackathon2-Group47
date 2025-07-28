@@ -85,3 +85,5 @@ Overall, the use of linked lists in our game depends on the specific mechanics o
 
 ## A link to our game demo video.
 https://youtu.be/20TPRjG8cc8
+
+### Update: This project got an A! :D
